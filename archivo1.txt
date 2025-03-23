@@ -1,2 +1,4 @@
-hola mundo desde archivo 1 
-hola2 mundo desde archivo 1
+nombre: juan camilo sanchez gutierrez
+correo: juancamilosanchez@unicomfacauca.edu.correo
+id:1105927626
+semestre:9
